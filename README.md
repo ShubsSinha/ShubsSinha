@@ -58,9 +58,7 @@ Here are some highlights of the work I’ve done:
 
 ---
 
-## 📊 GitHub Stats
 
-![Shubhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubsSinha&show_icons=true&theme=radical)
 
 ---
 
